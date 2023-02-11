@@ -76,7 +76,10 @@ for i in range (len (nums)):
 print(list3) 
 
 # exercises
-print(10%2)
-for num in range (20):
- if (num%2)==0:
-  nums .append(num)
+#create a list of even numbers
+x=[]
+
+for y in range (20):
+ if (y%2)==0:
+  x .append(y)
+print(x)
