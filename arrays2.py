@@ -34,3 +34,15 @@ if password.isalpha():
     print('invalid password')
 else:
     print('valid password')    
+
+#string methods
+#1.upper
+#2.lower
+# 3.isalpha
+# 4.replace
+# 5.count
+# 6.Index
+# 7.return
+# 8.iterate
+
+

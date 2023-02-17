@@ -8,7 +8,7 @@ print(sum(numbers))#get the sum of my list
 for i in range ( len(numbers)):
     print(numbers[i])
 print(numbers.index(56))
-
+#these  r list methods
 # Index
 #append-adds an element to the end of a list
 #sort-arranges the list in an ascending order

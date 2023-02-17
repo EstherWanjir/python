@@ -20,15 +20,21 @@ def my_function (first_name):
 
 my_function("cynthia") 
 
-def name():
-    name=input("What is your name")
-    print("hello"+name)
-name()     
+# def name():
+#     name=input("What is your name")
+#     print("hello"+name)
+# name()     
 
-def sum(num1,num2): 
-    num3=num1+num2
-    print(num3)
-num1=input("Enter num1:")
-num2=input("Enter num2 :")
-sum(num1,num2)
+# def sum(num1,num2): 
+#     num3=num1+num2
+#     print(num3)
+# num1=input("Enter num1:")
+# num2=input("Enter num2 :")
+# sum(num1,num2)
+
+def average(a,b):
+    av= (a+b)
+    return(av)
+
+print(av)    
 
